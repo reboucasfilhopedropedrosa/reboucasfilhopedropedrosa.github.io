@@ -616,6 +616,32 @@ progress {
   margin-bottom: 5rem; */
 }
 
+.img-down-pedrosa-80 {
+  /* max-width: 50%;
+  height: auto; */
+  width: 80%;
+  margin: auto;
+  display: block;
+  /* vertical-align: middle; */
+  /* justify-content: left; */
+  /* display: inline-block; */
+  /* margin-top: 1rem;
+  margin-bottom: 5rem; */
+}
+
+.img-down-pedrosa-80-l {
+  /* max-width: 50%;
+  height: auto; */
+  width: 80%;
+  margin: auto;
+  /* display: block; */
+  /* vertical-align: middle; */
+  justify-content: left;
+  /* display: inline-block; */
+  /* margin-top: 1rem;
+  margin-bottom: 5rem; */
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
